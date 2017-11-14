@@ -1,0 +1,23 @@
+{
+  "name": "generate-srcset",
+  "version": "0.0.0",
+  "description": "generate srcset for query selector by resizing window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aratramba/generate-srcset.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aratramba/generate-srcset/issues"
+  },
+  "homepage": "https://github.com/Aratramba/generate-srcset#readme",
+  "dependencies": {
+    "ora": "^1.3.0",
+    "puppeteer": "^0.13.0"
+  }
+}
